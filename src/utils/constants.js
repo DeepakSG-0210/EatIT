@@ -1,5 +1,5 @@
 export const cloudinaryImage =
-  "https://res.cloudinary.com/swiggy/image/upload/";
+  "https://media-assets.swiggy.com/swiggy/image/upload/";
 
 export const MENU_API =
   "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=12.9303176&lng=77.6970796&restaurantId=";
